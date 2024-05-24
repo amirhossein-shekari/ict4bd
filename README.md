@@ -39,5 +39,5 @@ These instructions will help you set up and run the project on your local machin
 5. **Stopping The Container**:
    To stop the running container, press Ctrl+C in the terminal where Docker Compose is running, or use:
    ```sh
-   docker-compose down
+   docker compose down
 
