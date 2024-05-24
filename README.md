@@ -31,7 +31,7 @@ These instructions will help you set up and run the project on your local machin
 
 2. **Build and start the Docker container**:
    ```sh
-   docker-compose up --build
+   docker compose up --build
    
 3. **Access Jupyter Notebook**:
    Open your browser and navigate to http://localhost:8888. Use the token provided in the terminal to log in.
